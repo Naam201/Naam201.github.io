@@ -1,4 +1,4 @@
-<<html>
+<html>
     <head>
         <meta charset="utf-8">
         <title> Songs Lyrics</title>
@@ -90,4 +90,3 @@ Yes, I think to myself, what a wonderful world</p>
     </center>  
     </body>
 </html>
-
